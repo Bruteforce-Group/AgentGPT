@@ -41,7 +41,7 @@
     "framer-motion": "^10.12.8",
     "html-to-image": "^1.11.11",
     "i18next": "^22.4.15",
-    "langchain": "^0.0.63",
+    "langchain": "^0.0.97",
     "lodash": "^4.17.21",
     "micro": "^10.0.1",
     "micro-cors": "^0.1.1",
